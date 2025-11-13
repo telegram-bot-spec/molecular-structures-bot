@@ -1,0 +1,64 @@
+{
+  "compounds": [
+    {
+      "formula": "CH4",
+      "name": "Methane",
+      "file": "CH4-methane.html"
+    },
+    {
+      "formula": "H2O",
+      "name": "Water",
+      "file": "H2O-water.html"
+    },
+    {
+      "formula": "CO2",
+      "name": "Carbon Dioxide",
+      "file": "CO2-carbon-dioxide.html"
+    },
+    {
+      "formula": "NH3",
+      "name": "Ammonia",
+      "file": "NH3-ammonia.html"
+    },
+    {
+      "formula": "O2",
+      "name": "Oxygen",
+      "file": "O2-oxygen.html"
+    },
+    {
+      "formula": "N2",
+      "name": "Nitrogen",
+      "file": "N2-nitrogen.html"
+    },
+    {
+      "formula": "HCl",
+      "name": "Hydrochloric Acid",
+      "file": "HCl-hydrochloric-acid.html"
+    },
+    {
+      "formula": "NaCl",
+      "name": "Sodium Chloride",
+      "file": "NaCl-sodium-chloride.html"
+    },
+    {
+      "formula": "C2H5OH",
+      "name": "Ethanol",
+      "file": "C2H5OH-ethanol.html"
+    },
+    {
+      "formula": "C6H6",
+      "name": "Benzene",
+      "file": "C6H6-benzene.html"
+    },
+    {
+      "formula": "C6H12O6",
+      "name": "Glucose",
+      "file": "C6H12O6-glucose.html"
+    },
+    {
+      "formula": "H2SO4",
+      "name": "Sulfuric Acid",
+      "file": "H2SO4-sulfuric-acid.html"
+    }
+  ]
+}
